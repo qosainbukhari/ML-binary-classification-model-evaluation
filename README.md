@@ -29,7 +29,7 @@ To get this project up and running on your local machine, follow these steps:
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/qosain-bukhari/ML-binary-classification-model-evaluation.git
+    git clone https://github.com/QosainBukhari/ML-binary-classification-model-evaluation.git
     ```
 
 2. **Navigate to the project directory**:
@@ -88,7 +88,7 @@ Once you have installed the necessary dependencies, you can run the Jupyter Note
 
 ## Authors
 
-- [@qosain-bukhari](https://github.com/qosain-bukhari) - Initial work
+- [@QosainBukhari](https://github.com/QosainBukhari) - Initial work
 
 ## License
 
